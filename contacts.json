@@ -12,12 +12,6 @@
 		"phone": "(501) 472-5218"
 	},
 	{
-		"id": "6",
-		"name": "Abbot Franks",
-		"email": "scelerisque@magnis.org",
-		"phone": "(186) 568-3720"
-	},
-	{
 		"id": "7",
 		"name": "Reuben Henry",
 		"email": "pharetra.ut@dictum.co.uk",
@@ -44,5 +38,11 @@
 		"name": "Tomasz",
 		"email": "tomasz@kurs.goit",
 		"phone": "334-444-333"
+	},
+	{
+		"id": "12",
+		"name": "TomaszM",
+		"email": "tomasz@goit.kurs",
+		"phone": "445-667-333"
 	}
 ]
